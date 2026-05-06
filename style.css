@@ -10,6 +10,15 @@ a
 font-family: 'Quicksand', sans-serif;
 text-decoration: none;}
 
+.about p {
+  text-align: start;
+  margin: 50px;
+  text-decoration: none;
+  color: #206E8C;
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+
+}
 .footerteam {
   padding: 40px;
   background-color: white;
